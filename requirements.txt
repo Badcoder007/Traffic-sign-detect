@@ -1,7 +1,10 @@
 requests==2.25.1
 pytz==2019.3
-flask
-opencv-python
-tensorflow
 numpy
 matplotlib
+tensorflow
+opencv-python
+scikit-learn
+pandas
+keras
+
